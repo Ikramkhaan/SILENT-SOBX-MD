@@ -12,7 +12,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let status = `*SILENT-SOBX-MD UPTIME LIST*
+let status = HEART-HACKER-MD UPTIME LIST*
 
 *UPTIME:*  ${runtime(process.uptime())}
 

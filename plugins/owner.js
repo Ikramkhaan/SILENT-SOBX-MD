@@ -11,11 +11,11 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let owner =` 
 *HEAR IS BOT OWNER INFO*
-*NAME:-* *USMAN.S*
-*AGE:-* *20 YEARS*
-*PUBLIC NAME:-* *SILENTLOVER*
+*NAME:-* *𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮*
+*AGE:-* *22 YEARS*
+*PUBLIC NAME:-* *HEART-HACKER*
 
-> *BY SILENTLOVER432*
+> *BY HEART-HACKER ❤️*
 `
 await conn.sendMessage(from, { text: owner ,
   contextInfo: {
@@ -25,15 +25,15 @@ await conn.sendMessage(from, { text: owner ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "SILENTLOVER432",
+      newsletterName: "HEART-HACKER",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SILENTLOVER432',
+title: 'HEART-HACKER',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://wa.me/+923096287432?text=HY SILENTLOVER4 I'M MSG YOU FROM OWNER ADS" ,
-thumbnailUrl: "https://telegra.ph/file/ffda25ad4092b3328d551.jpg" ,
+sourceUrl: "https://wa.me/+923193619280?text=HY 𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮 I'M MSG YOU FROM OWNER ADS" ,
+thumbnailUrl: "https://i.imgur.com/9dNYX42.jpeg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }

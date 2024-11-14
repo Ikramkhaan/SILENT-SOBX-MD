@@ -20,7 +20,7 @@ let status = `*SILENT-SOBX-MD UPTIME LIST*
 
 *HOSTNAME:* ${os.hostname()}
 
-*OWNER:* *SILENT LOVER⁴³²*
+*OWNER:* *𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮 ❤️*
 `
 return reply(`${status}`)
 }catch(e){

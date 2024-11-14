@@ -44,7 +44,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 *❖│▸* *ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
 *❖│▸* *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 *❖│▸* *ɴᴀᴍᴇ ʙᴏᴛ* : *❖sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❖*
-*❖│▸* *ᴄʀᴇᴀᴛᴏʀ* : *➺ѕเℓεɳƭ_ℓσѵε૨࿐*
+*❖│▸* *ᴄʀᴇᴀᴛᴏʀ* : *𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮 ❤️*
 *❖│▸* *ᴠᴇʀsɪᴏɴs* : *ᴠ.2.0.0*
 *❖│▸* *ᴍᴇɴᴜ ᴄᴍᴅ* : *ᴍᴇɴᴜ ʟɪsᴛ*
 *┬│▸*
@@ -182,11 +182,11 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 *❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
 
 ┏━━━━━━━━━━━━━━━━━━━
-*https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
+*https://chat.whatsapp.com/Lbam2oVIfJFBBcUEU4Azwv*
 ┗━━━━━━━━━━━━━━━━━━━
 
 
-> *POWERED BY SILENTLOVER432*
+> *POWERED BY HEART-HACKER ❤️*
 ╘✦•·········•••••••••············•✦ 
 `
 
